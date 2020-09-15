@@ -1,0 +1,6 @@
+DialogueNode Monkey
+PickUpAble N
+GoToScene none
+GoToStartingPoint none
+NameOfInventoryAnimation none
+KillOnTouch N

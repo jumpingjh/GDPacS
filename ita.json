@@ -1,0 +1,92 @@
+[
+	{
+		"title": "ReceptionistPunk",
+		"tags": "",
+		"body": "<< ChangeIcon Receptionist >> Salve, come posso aiutarla ?",
+		"position": {
+			"x": -193,
+			"y": 461
+		},
+		"colorID": 6
+	},
+	{
+		"title": "NothingToDo",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Non saprei che farne",
+		"position": {
+			"x": 17,
+			"y": 461
+		},
+		"colorID": 3
+	},
+	{
+		"title": "PunkHead",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Il programmatore non poteva scegliere qualcosa di piu' elegante ?[ ]\nMa soprattutto, dove mi cambio ? \n",
+		"position": {
+			"x": 226,
+			"y": 682
+		},
+		"colorID": 2
+	},
+	{
+		"title": "ReceptionistNormal",
+		"tags": "",
+		"body": "<<  MakeDialogAction DisableWall One >> \n<< ChangeIcon Receptionist >> Ciao An, dove stai andando ?[ ]\n<< ChangeIcon Player >> Ehm, ohm, di la, ho visto una scimmia a tre teste[ ]\n<< ChangeIcon Receptionist >> Bella citazione ma non ti crede nessuno[ ]\nMi raccomando, non proseguire\n\n",
+		"position": {
+			"x": -193,
+			"y": 671
+		},
+		"colorID": 6
+	},
+	{
+		"title": "ChangeLook",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Cosa mi tocca fare per stare in questo gioco !",
+		"position": {
+			"x": 20,
+			"y": 681
+		},
+		"colorID": 2
+	},
+	{
+		"title": "ReceptionistStop",
+		"tags": "",
+		"body": "<< ChangeIcon Receptionist >> Fermati! Lo sai che non puoi proseguire.",
+		"position": {
+			"x": -458,
+			"y": 674
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ChangeLookToNormal",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Finalmente un po' di dignita'",
+		"position": {
+			"x": 15,
+			"y": 893
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Monkey",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Ciao, dove hai messo le altre due teste ?[ ]\n<< ChangeIcon Monkey >> Temo che tu abbia sbagliato gioco",
+		"position": {
+			"x": -464,
+			"y": 447
+		},
+		"colorID": 4
+	},
+	{
+		"title": "LetsSmile",
+		"tags": "",
+		"body": "<<  MakeDialogAction Smile >>   << ChangeIcon Player >> Forza, la vita è bella !!! ",
+		"position": {
+			"x": 305,
+			"y": 443
+		},
+		"colorID": 0
+	}
+]

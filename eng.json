@@ -1,0 +1,92 @@
+[
+	{
+		"title": "ReceptionistPunk",
+		"tags": "",
+		"body": "<< ChangeIcon Receptionist >> Hello, can I help you ?",
+		"position": {
+			"x": -193,
+			"y": 461
+		},
+		"colorID": 6
+	},
+	{
+		"title": "NothingToDo",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> I don't know what to do with it",
+		"position": {
+			"x": 17,
+			"y": 461
+		},
+		"colorID": 3
+	},
+	{
+		"title": "PunkHead",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> The programmer couldn't have chosen something more elegant ?\nAnd where I change my dress? \n",
+		"position": {
+			"x": 227,
+			"y": 682
+		},
+		"colorID": 2
+	},
+	{
+		"title": "ReceptionistNormal",
+		"tags": "",
+		"body": "<<  MakeDialogAction DisableWall One >> \n<< ChangeIcon Receptionist >> Hi A, where are you going ?\n<< ChangeIcon Player >> Ehm, ohm, beyond, I saw a three-headed monkey\n<< ChangeIcon Receptionist >> Nice quote but nobody believes you\nPlease do not continue onthis way\n\n",
+		"position": {
+			"x": -193,
+			"y": 671
+		},
+		"colorID": 6
+	},
+	{
+		"title": "ChangeLook",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> What I have to do to be in this game !",
+		"position": {
+			"x": 20,
+			"y": 681
+		},
+		"colorID": 2
+	},
+	{
+		"title": "ReceptionistStop",
+		"tags": "",
+		"body": "<< ChangeIcon Receptionist >> Stop! You know you can't go on.",
+		"position": {
+			"x": -458,
+			"y": 674
+		},
+		"colorID": 0
+	},
+	{
+		"title": "ChangeLookToNormal",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Finally some dignity",
+		"position": {
+			"x": 15,
+			"y": 893
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Monkey",
+		"tags": "",
+		"body": "<< ChangeIcon Player >> Hi, where did you put the other two heads ?\n<< ChangeIcon Monkey >> I'm afraid you have the wrong game",
+		"position": {
+			"x": -464,
+			"y": 447
+		},
+		"colorID": 4
+	},
+	{
+		"title": "LetsSmile",
+		"tags": "",
+		"body": "<<  MakeDialogAction Smile >>   << ChangeIcon Player >> Come on, life is beautiful !!! ",
+		"position": {
+			"x": 305,
+			"y": 443
+		},
+		"colorID": 0
+	}
+]
