@@ -17912,6 +17912,27 @@
               "value": "Act3"
             }
           ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 181,
+          "layer": "",
+          "locked": false,
+          "name": "MagicWalls",
+          "persistentUuid": "92052d92-6173-477c-88ce-26c0b5c603b2",
+          "width": 32,
+          "x": 2367,
+          "y": 395,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Name",
+              "value": "Stop"
+            }
+          ]
         }
       ],
       "objects": [
